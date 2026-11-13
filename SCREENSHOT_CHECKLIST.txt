@@ -1,0 +1,16 @@
+SCREENSHOT CHECKLIST — MOVIE TICKET BOOKING SYSTEM
+
+Before printing, replace these placeholders in the report:
+[Your Full Name], [Your UID], [Faculty Name / Department]
+
+Run movie_ticket_booking.sql in MySQL Workbench and capture genuine screenshots of:
+[ ] Successful database/table creation (Action Output)
+[ ] SELECT * FROM Movies;
+[ ] Q2: joined show schedule
+[ ] Q3 or Q11: confirmed bookings report
+[ ] Q4: confirmed revenue per movie
+[ ] Q5: number of bookings per customer
+[ ] Q7: seats already booked for show_id = 1
+[ ] Q12: database summary
+
+Each screenshot should show the SQL query and its Result Grid. Insert them into Section 9 of the report with a figure number and caption. The report's sample tables are expected output examples, not captured screenshots.
